@@ -1,2 +1,2 @@
 
-The background color is `rgb(R,G,B)` for light mode and `rgb(9, 105, 218)` for dark mode.
+The background color is `rgb(B,R,G)` for light mode and `rgb(9, 105, 218)` for dark mode.
